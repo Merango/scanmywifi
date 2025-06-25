@@ -1,0 +1,40 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+build/
+captures/
+local.properties
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# Dependency directories
+/node_modules
+/app/build
+
+# Logging
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gradle
+.gradle
+/build
+/buildSrc/build
+
+# Kotlin/Android specific
+*.apk
+*.aar
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Dependency caches
+.gradle/
+build/
