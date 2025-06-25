@@ -1,0 +1,54 @@
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+/captures
+
+# Local configuration file
+local.properties
+
+# Log files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+/captures
+
+# IntelliJ
+out/
+
+# External native build folder generated in Android Studio 2.2
+.externalNativeBuild
+
+# NDK
+obj/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Keystore files
+*.jks
+*.keystore
+
+# Secrets and environment files
+.env
+secrets.properties
+
+# Kotlin build output
+target/
+
+# Dependency directories
+/node_modules
+/vendor
+
+# Generated files
+bin/
+gen/
