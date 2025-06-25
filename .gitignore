@@ -1,0 +1,38 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin/Java
+*.class
+*.log
+*.jar
+*.war
+*.nar
+hs_err_pid*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Testing
+.coverage
+.pytest_cache/
+__pycache__/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Build output
+dist/
+out/
+target/
