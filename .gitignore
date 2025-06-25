@@ -1,0 +1,37 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle files
+gradle/
+gradlew
+gradlew.bat
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Dependency directories
+/node_modules
+/app/build/
+
+# Logs
+*.log
+
+# Virtual machine files
+.idea/
+*.iws
+*.ipr
+
+# Sensitive or local files
+local.properties
+.env
