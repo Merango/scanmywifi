@@ -1,0 +1,51 @@
+# Android Studio
+*.iml
+.gradle/
+build/
+.idea/
+local.properties
+
+# macOS
+.DS_Store
+
+# Kotlin/Java
+*.class
+*.log
+
+# Dependency Directories
+node_modules/
+
+# Gradle
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin Native
+*.klib
+
+# Virtual Machine crash logs
+hs_err_pid*
+
+# Logs
+logs/
+*.log
+
+# Android Test Results
+app/build/
+testResults/
+
+# Temp files
+*.tmp
+*.bak
+*~
+
+# Sensitive Information
+*.env
+secrets.properties
+
+# Dependency cache
+.pnp/
+.pnp.js
+
+# Testing
+coverage/
