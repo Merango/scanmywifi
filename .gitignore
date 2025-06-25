@@ -1,0 +1,64 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle
+*.log
+/gradle
+/gradlew
+/gradlew.bat
+
+# Generated files
+bin/
+gen/
+out/
+
+# Dependency directories
+node_modules/
+
+# Virtual environment
+venv/
+env/
+
+# Sensitive information
+*.env
+*.key
+
+# Compiled files
+*.class
+*.dex
+*.apk
+*.aab
+*.so
+
+# Logs
+logs/
+*.log
+
+# Local configuration file
+local.properties
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ
+*.ipr
+*.iws
+
+# Mac files
+.DS_Store
+
+# Temp files
+*.swp
+*.swo
+*~
