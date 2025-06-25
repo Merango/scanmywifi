@@ -1,0 +1,52 @@
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+captures/
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Local configuration file
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+/captures
+
+# macOS
+.DS_Store
+
+# Kotlin
+*.kotlin_module
+
+# Virtual Machine
+*.hprof
+
+# Libraries
+/node_modules
+/libs
+
+# Environment files
+.env
+
+# Sensitive data
+secrets.properties
+
+# External libraries
+app/libs/
