@@ -1,0 +1,39 @@
+# Android Studio
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Kotlin build output
+bin/
+out/
+
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Generated files
+*.class
+*.apk
+*.aab
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Temporary files
+*.swp
+*~
+
+# Gradle
+.gradle/
+build/
